@@ -4,7 +4,7 @@
 
 机型配置如图所示
 
-![8F35C06096F3016882F481EB6F95D002](/Users/admin/Library/Containers/com.tencent.qq/Data/Library/Caches/Images/8F35C06096F3016882F481EB6F95D002.png)
+![](https://s3.bmp.ovh/imgs/2021/11/96f3016882f481eb.png)
 
 
 
